@@ -115,36 +115,12 @@
 <br>
 
 </p>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<br>
 
 <div align="center">
 
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abumoaz1&theme=radical&hide_border=false)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abumoaz1&theme=radical&layout=compact)
-
-
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 <br>
 ## <b> Let's Connect..!</b><img src="./handshake.gif" width ="80">
 <br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
 
-
-
-<!--
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ariz565" alt="ariz565" /></a> </p>
-
-- 🔭 I’m currently working on **GradNetwork**
-
-- 🌱 I’m currently learning **Back-End Development**
-
-- 💬 Ask me about **Programming Languages, Algorithms and Data Structures**
-
-<h3 align="left">Connect with me:</h3> -->
