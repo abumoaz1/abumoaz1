@@ -123,8 +123,9 @@
 <br>
 ## <b> Let's Connect..!</b><img src="./handshake.gif" width ="80">
 <br>
-
+<a href="https://drive.google.com/file/d/1H_Q_S-hL8Nwn_nU3SXWrGmpliYilegQj/view?usp=drive_link">
 <button class="button">Download Resume</button>
+</a>
 
 
 
