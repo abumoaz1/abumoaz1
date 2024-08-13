@@ -87,7 +87,5 @@
 <div align="center">
   <b>Let's Connect!</b><img src="./handshake.gif" width="80">
   <br>
-  <a href="moazResume.pdf">
-    <button class="button">Download Resume</button>
-  </a>
+  <a href="moazResume.pdf" style="display: inline-block; padding: 10px 20px; font-size: 16px; font-weight: bold; color: #fff; background-color: #007bff; border-radius: 5px; text-decoration: none; transition: background-color 0.3s ease;">Download Resume</a>
 </div>
