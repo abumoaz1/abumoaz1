@@ -87,6 +87,6 @@
 <div align="center">
   <b>Let's Connect!</b><img src="./handshake.gif" width="80">
   <br>
-  <a href="moazResume.pdf" style="display: inline-block; padding: 12px 24px; font-size: 16px; font-weight: bold; color: white; background-color: #007bff; border-radius: 5px; text-decoration: none; transition: background-color 0.3s ease;">Download Resume</a>
+  <a href="Resume.pdf" style="display: inline-block; padding: 12px 24px; font-size: 16px; font-weight: bold; color: white; background-color: #007bff; border-radius: 5px; text-decoration: none; transition: background-color 0.3s ease;">Download Resume</a>
 </div>
 
