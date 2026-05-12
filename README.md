@@ -1,92 +1,77 @@
-<!-- ## <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47srfzcp26tzlqmrid21gou66j7n0xuwpb8s6o4hg9&rid=giphy.gif&ct=g" width="1000" height="300" /> -->
+# AbuMoaz
 
-<h1 align="center">Hi, I'm Abu Moaz 👋</h1>
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=700&random=true&width=435&lines=Full+Stack+Developer;Tech+Enthusiast;Love+to+learn+new+stuffs...%3C3" alt="Typing SVG" />
-  </a>
-</p>
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=abumoaz1&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+Python Backend & AI Engineer focused on production RAG systems, scalable FastAPI services, and search infrastructure.
 
-<div style="display: flex; align-items: center;">
-  <picture>
-    <img src="./about_me.gif" width="50px">
-  </picture>
-  <b style="margin-left: 10px;">About Me</b>
-</div>
+[Website](https://abumoaz.me) | [LinkedIn](https://linkedin.com/in/abu-moaz) | [GitHub](https://github.com/abumoaz1) | [Email](mailto:moazkhan7496@gmail.com) | [+91 8791872203](tel:+918791872203)
 
-<img align="right" src="./Right_Side.gif" width="300px" style="position: relative; top: -30px;">
-<br>
+## Professional Summary
 
-- Full-Stack Developer
-- Open Source Contributor/Maintainer
-- Proficient in Django & Intermediate MERN Stack Developer
-- Passionate about learning new technologies and building innovative projects
+I have 1 year of experience building backend systems and AI workflows that ship to production. My work includes zero-downtime search migrations for 26M+ records, retrieval-augmented ticketing assistants with pgvector and AWS Bedrock, and AI security tooling for code analysis and remediation.
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+I currently build Validgen, an AI code security platform with 14+ active users, and I enjoy working on systems where performance, reliability, and retrieval quality all matter.
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"><b> Skills</b>
-<br>
+## Technical Skills
 
-### Languages
+- Languages: Python, JavaScript, Java
+- Frameworks: FastAPI, Flask, React.js, Node.js
+- AI and LLM: RAG, LangChain, LlamaIndex, Hugging Face Transformers, AWS Bedrock, OpenAI API
+- Databases and Search: PostgreSQL, pgvector, Elasticsearch, Redis
+- Infrastructure: AWS (EC2, S3, IAM), Docker, GitHub Actions, CI/CD, Linux
+- Tools: Git, REST API Design, JWT/OAuth, Boto3, Microservices
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Java%20-%232370ED.svg?style=for-the-badge&logo=oraclejava&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-</p>
+## Experience
 
-### Front-End Development
+### Blackcoffer Pvt Ltd
+Software Engineer | June 2025 - Feb 2026 | Noida, UP
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 badge">
-  <img src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 badge">
-  <img src="https://img.shields.io/badge/Tailwind%20CSS%20-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS badge">
-  <img src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript badge">
-  <img src="https://img.shields.io/badge/React%20-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React badge">
-  <img src="https://img.shields.io/badge/Next.js%20-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js badge">
-  <img src="https://img.shields.io/badge/TypeScript%20-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript badge">
-</p>
+- Designed and developed scalable backend services using FastAPI to process high-volume REST API requests with optimized latency.
+- Led a zero-downtime migration of search infrastructure handling 26M+ records from Elasticsearch 5.6 to 9.2, implementing backward-compatible APIs and minimizing client-side migration effort by 95%.
+- Built a legal document automation platform with role-based modules, enabling admins to create and manage document templates while allowing users to securely purchase, customize, and generate legal documents.
+- Developed a multi-role AI ticketing assistant with RAG pipelines using pgvector and cosine similarity, strict evals, and verifiable citations based on user permissions.
+- Provisioned AWS cloud deployments using EC2, S3, and IAM, utilizing boto3 to orchestrate AWS Bedrock foundational models within core pipelines.
 
-### Back-End Development
+### Frazor Enterprises Solutions
+Associate Software Engineer Intern | Feb 2025 - May 2025 | Gurgaon, Haryana
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
-  <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=green" alt="Django">
-</p>
+- Architected high-throughput REST APIs using FastAPI, integrating with frontend environments to support core application functionality.
+- Managed third-party API integrations with continuous data synchronization, implementing distributed rate limiting using a sliding window algorithm to stabilize high request loads.
+- Developed asynchronous inference endpoints using FastAPI to integrate generative AI models, improving payload processing and backend response times.
+- Contributed to data ingestion pipelines for raw user inputs, implementing chunking strategies to manage context windows, token usage, and hallucination risk.
 
-### Database
+### Validgen
+Solo Founder / AI Backend Engineer | Feb 2026 - Present | Remote
 
-<p align="center">
-  <img src="https://img.shields.io/badge/MongoDB%20-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-  <img src="https://img.shields.io/badge/MySQL%20-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-</p>
+- Built and deployed an AI code security scanner using 150+ custom detection rules combining regex and AST analysis to identify vulnerabilities in AI-generated code.
+- Architected a secure scanning environment with Docker-in-Docker and ephemeral containers, enforcing a zero-code-retention policy after analysis.
+- Acquired 14 users and processed 50+ repository scans in the first month by targeting security flaws in code generated by AI agents.
+- Designed an AI-driven remediation pipeline that maps detected vulnerabilities to predefined rules for automated code resolution.
 
-### Cloud Hosting
+## Projects
 
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS">
-  <img src="https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify">
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
-</p>
+### Validex - API Contract Validator
+FastAPI, PostgreSQL, pgvector, Docker, Redis, Open-Source LLM | [GitHub](https://github.com/abumoaz1)
 
-### Software and Tools
+- Developed an automated testing platform using FastAPI to ingest OpenAPI specifications and generate integration test scripts with RAG pipelines and open-source LLMs.
+- Architected a secure execution environment with Docker sandboxed containers for generated test scripts.
+- Orchestrated asynchronous task processing with Redis to manage test generation and container execution queues.
+- Built a contract validation system that accelerates the SDLC by automating API test coverage creation and execution.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
-</p>
+### Prepify - AI-Driven Entrance Prep
+Next.js, PostgreSQL, FastAPI, LlamaIndex, pgvector, Ollama, Docker | [Project](https://abumoaz.me)
 
-<br>
-<div align="center">
-  <b>Let's Connect!</b><img src="./handshake.gif" width="80">
-  <br>
-  <a href="Resume.pdf" style="display: inline-block; padding: 12px 24px; font-size: 16px; font-weight: bold; color: white; background-color: #007bff; border-radius: 5px; text-decoration: none; transition: background-color 0.3s ease;">Download Resume</a>
-</div>
+- Built a generative AI assessment pipeline using LlamaIndex to ingest study material and generate context-aware MCQs guided by previous-year exam patterns.
+- Architected a semantic retrieval layer using pgvector in PostgreSQL for accurate context selection.
+- Implemented real-time quiz workflows and personalized practice modules with role-based access control.
+
+## Education
+
+### Aligarh Muslim University
+Master of Computer Applications | CGPA: 8.5/10 | June 2025 | Aligarh, UP
+
+## Current Focus
+
+- Production-grade RAG and retrieval systems
+- FastAPI backend architecture and performance
+- AI security tooling and automated remediation
+- Scalable search and document automation platforms
 
