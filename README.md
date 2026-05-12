@@ -49,7 +49,7 @@ Solo Founder / AI Backend Engineer | Feb 2026 - Present | Remote
 ## Projects
 
 ### Validex - API Contract Validator
-FastAPI, PostgreSQL, pgvector, Docker, Redis, Open-Source LLM | [GitHub](https://github.com/abumoaz1)
+FastAPI, PostgreSQL, pgvector, Docker, Redis, Open-Source LLM | [GitHub](https://github.com/abumoaz1/validex)
 
 - Developed an automated testing platform using FastAPI to ingest OpenAPI specifications and generate integration test scripts with RAG pipelines and open-source LLMs.
 - Architected a secure execution environment with Docker sandboxed containers for generated test scripts.
@@ -57,7 +57,7 @@ FastAPI, PostgreSQL, pgvector, Docker, Redis, Open-Source LLM | [GitHub](https:/
 - Built a contract validation system that accelerates the SDLC by automating API test coverage creation and execution.
 
 ### Prepify - AI-Driven Entrance Prep
-Next.js, PostgreSQL, FastAPI, LlamaIndex, pgvector, Ollama, Docker | [Project](https://abumoaz.me)
+Next.js, PostgreSQL, FastAPI, LlamaIndex, pgvector, Ollama, Docker | [Project](https://neetgenie1.vercel.app)
 
 - Built a generative AI assessment pipeline using LlamaIndex to ingest study material and generate context-aware MCQs guided by previous-year exam patterns.
 - Architected a semantic retrieval layer using pgvector in PostgreSQL for accurate context selection.
