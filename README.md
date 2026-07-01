@@ -55,7 +55,7 @@ AI Engineer with hands-on experience building production-ready LLM pipelines, mu
 
 ## Open Source Contributions
 
-### [AgentWire](https://github.com/agentwire) – Agentic AI Orchestration Framework
+### [AgentWire](https://github.com/dotdevdotdev/agentwire-dev) – Agentic AI Orchestration Framework
 3 merged PRs
 
 - **PR #524:** Fixed a critical multi-session reliability bug where worktree worker done-reports dead-lettered silently against a busy orchestrator. Passed 2 rounds of blocking review. +193 / −3 lines across 5 files.
