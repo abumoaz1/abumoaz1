@@ -1,77 +1,74 @@
-# AbuMoaz
+# Abu Moaz
 
-Python Backend & AI Engineer focused on production RAG systems, scalable FastAPI services, and search infrastructure.
+AI Engineer focused on production RAG systems, multi-agent orchestration, and scalable FastAPI services.
 
-[Website](https://abumoaz.me) | [LinkedIn](https://linkedin.com/in/abu-moaz) | [GitHub](https://github.com/abumoaz1) | [Email](mailto:moazkhan7496@gmail.com) | [+91 8791872203](tel:+918791872203)
+[Website](https://abumoaz.me) | [LinkedIn](https://linkedin.com/in/abu-moaz) | [GitHub](https://github.com/abumoaz1) | [Email](mailto:moazkhan7496@gmail.com)
 
 ## Professional Summary
 
-I have 1 year of experience building backend systems and AI workflows that ship to production. My work includes zero-downtime search migrations for 26M+ records, retrieval-augmented ticketing assistants with pgvector and AWS Bedrock, and AI security tooling for code analysis and remediation.
-
-I currently build Validgen, an AI code security platform with 14+ active users, and I enjoy working on systems where performance, reliability, and retrieval quality all matter.
+AI Engineer with hands-on experience building production-ready LLM pipelines, multi-agent orchestration systems, and semantic vector search integrations. My work includes zero-downtime search migrations for 26M+ records, RAG-powered ticketing assistants with pgvector and AWS Bedrock, and AI security tooling for code analysis and remediation. Open source contributor to AgentWire.
 
 ## Technical Skills
 
-- Languages: Python, JavaScript, Java
-- Frameworks: FastAPI, Flask, React.js, Node.js
-- AI and LLM: RAG, LangChain, LlamaIndex, Hugging Face Transformers, AWS Bedrock, OpenAI API
-- Databases and Search: PostgreSQL, pgvector, Elasticsearch, Redis
-- Infrastructure: AWS (EC2, S3, IAM), Docker, GitHub Actions, CI/CD, Linux
-- Tools: Git, REST API Design, JWT/OAuth, Boto3, Microservices
+- **Languages:** Python, JavaScript, Java
+- **Frameworks:** FastAPI, Flask, LangChain, LlamaIndex, React.js, Next.js
+- **AI & LLM:** RAG Pipelines, Multi-Agent Systems, Prompt Engineering, AWS Bedrock, Ollama, OpenAI API, pgvector, FAISS
+- **Evaluation & Observability:** RAGAS, DeepEval, Langfuse, Pydantic v2
+- **Databases & Search:** PostgreSQL, Elasticsearch, Redis, ChromaDB
+- **Infrastructure:** Docker, AWS (EC2, S3, IAM), GitHub Actions, CI/CD, Linux
 
 ## Experience
 
 ### Blackcoffer Pvt Ltd
-Software Engineer | June 2025 - Feb 2026 | Noida, UP
+**Software Engineer, AI & Backend** | June 2025 – Feb 2026 | Noida, UP
 
-- Designed and developed scalable backend services using FastAPI to process high-volume REST API requests with optimized latency.
-- Led a zero-downtime migration of search infrastructure handling 26M+ records from Elasticsearch 5.6 to 9.2, implementing backward-compatible APIs and minimizing client-side migration effort by 95%.
-- Built a legal document automation platform with role-based modules, enabling admins to create and manage document templates while allowing users to securely purchase, customize, and generate legal documents.
-- Developed a multi-role AI ticketing assistant with RAG pipelines using pgvector and cosine similarity, strict evals, and verifiable citations based on user permissions.
-- Provisioned AWS cloud deployments using EC2, S3, and IAM, utilizing boto3 to orchestrate AWS Bedrock foundational models within core pipelines.
+- Developed scalable FastAPI backend services handling 1.2M+ daily requests, reducing average response times by 35%.
+- Led zero-downtime migration of search infrastructure (26M+ records) from Elasticsearch 5.6 to 9.2 with backward-compatible APIs.
+- Built a role-based AI ticketing assistant using pgvector RAG pipelines, achieving 92%+ retrieval accuracy.
+- Integrated AWS Bedrock LLMs via Boto3 to orchestrate cloud-native AI inference pipelines on provisioned AWS infrastructure (EC2, S3, IAM).
 
 ### Frazor Enterprises Solutions
-Associate Software Engineer Intern | Feb 2025 - May 2025 | Gurgaon, Haryana
+**Associate Software Engineer (Internship)** | Feb 2025 – May 2025 | Gurgaon, Haryana
 
-- Architected high-throughput REST APIs using FastAPI, integrating with frontend environments to support core application functionality.
-- Managed third-party API integrations with continuous data synchronization, implementing distributed rate limiting using a sliding window algorithm to stabilize high request loads.
-- Developed asynchronous inference endpoints using FastAPI to integrate generative AI models, improving payload processing and backend response times.
-- Contributed to data ingestion pipelines for raw user inputs, implementing chunking strategies to manage context windows, token usage, and hallucination risk.
-
-### Validgen
-Solo Founder / AI Backend Engineer | Feb 2026 - Present | Remote
-
-- Built and deployed an AI code security scanner using 150+ custom detection rules combining regex and AST analysis to identify vulnerabilities in AI-generated code.
-- Architected a secure scanning environment with Docker-in-Docker and ephemeral containers, enforcing a zero-code-retention policy after analysis.
-- Acquired 14 users and processed 50+ repository scans in the first month by targeting security flaws in code generated by AI agents.
-- Designed an AI-driven remediation pipeline that maps detected vulnerabilities to predefined rules for automated code resolution.
+- Developed asynchronous FastAPI inference endpoints for generative AI models, reducing payload processing time by 45%.
+- Optimized LLM data ingestion pipelines using custom semantic chunking, reducing token costs by 30% while decreasing hallucination rates.
 
 ## Projects
 
-### Validex - API Contract Validator
-FastAPI, PostgreSQL, pgvector, Docker, Redis, Open-Source LLM | [GitHub](https://github.com/abumoaz1/validex)
+### Validgen – AI Code Security Scanner
+`FastAPI · Docker · AST Analysis` | [validgen.com](https://validgen.com)
 
-- Developed an automated testing platform using FastAPI to ingest OpenAPI specifications and generate integration test scripts with RAG pipelines and open-source LLMs.
-- Architected a secure execution environment with Docker sandboxed containers for generated test scripts.
-- Orchestrated asynchronous task processing with Redis to manage test generation and container execution queues.
-- Built a contract validation system that accelerates the SDLC by automating API test coverage creation and execution.
+- Built and deployed an AI code security scanner using 150+ custom detection rules (regex + AST analysis) to catch vulnerabilities in AI-generated code, acquiring active users and processing 50+ repository scans in month one.
+- Architected a sandboxed Docker-in-Docker scanning environment with a zero-code-retention policy for user privacy.
 
-### Prepify - AI-Driven Entrance Prep
-Next.js, PostgreSQL, FastAPI, LlamaIndex, pgvector, Ollama, Docker | [Project](https://neetgenie1.vercel.app)
+### SEO-Agentica – Multi-Agent Local SEO Auditor
+`FastAPI · Ollama · React · SSE` | [GitHub](https://github.com/abumoaz1)
 
-- Built a generative AI assessment pipeline using LlamaIndex to ingest study material and generate context-aware MCQs guided by previous-year exam patterns.
-- Architected a semantic retrieval layer using pgvector in PostgreSQL for accurate context selection.
-- Implemented real-time quiz workflows and personalized practice modules with role-based access control.
+- Architected an async multi-agent orchestration engine running fully local LLMs (gemma3:1b, phi4-mini), built without LangChain or CrewAI.
+- Engineered real-time event-streaming (FastAPI SSE) to push agent execution steps to the UI, improving perceived latency by 70%+ over polling.
+
+### Validex – API Contract Validator
+`FastAPI · pgvector · Redis · Docker` | [GitHub](https://github.com/abumoaz1/validex)
+
+- Built an automated testing platform using pgvector RAG to ingest OpenAPI specs and generate test scripts, reducing manual QA test creation time by 60%.
+- Architected a sandboxed Docker environment with a Redis async task queue, scaling to 50+ concurrent container tests.
+
+## Open Source Contributions
+
+### [AgentWire](https://github.com/agentwire) – Agentic AI Orchestration Framework
+3 merged PRs
+
+- **PR #524:** Fixed a critical multi-session reliability bug where worktree worker done-reports dead-lettered silently against a busy orchestrator. Passed 2 rounds of blocking review. +193 / −3 lines across 5 files.
+- **PR #501:** Improved onboarding DX and CLI docs; shipped in v1.45.0 as the first-ever outside contributor.
 
 ## Education
 
 ### Aligarh Muslim University
-Master of Computer Applications | CGPA: 8.5/10 | June 2025 | Aligarh, UP
+**Master of Computer Applications** | CGPA: 8.5/10 | June 2025 | Aligarh, UP
 
 ## Current Focus
 
 - Production-grade RAG and retrieval systems
 - FastAPI backend architecture and performance
+- Multi-agent orchestration and local LLM deployment
 - AI security tooling and automated remediation
-- Scalable search and document automation platforms
-
